@@ -1,5 +1,5 @@
 """
-datetimelke_accumulations.py is for accumulations of datetimelike extension arrays
+datetimelke_accumulations.py is for accumulations of datetimelike extension arrays !
 """
 
 from __future__ import annotations

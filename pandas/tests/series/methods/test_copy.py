@@ -20,7 +20,7 @@ class TestCopy:
             ser2 = ser.copy(deep=deep)
 
         if using_copy_on_write:
-            # INFO(CoW) a shallow copy doesn't yet copy the data
+            # INFO(CoW) a shallow copy doesn't yet copy the data 
             # but parent will not be modified (CoW)
             if deep is None or deep is False:
                 assert np.may_share_memory(ser.values, ser2.values)

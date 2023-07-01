@@ -54,7 +54,7 @@ def _rewrite_assign(tok: tuple[int, str]) -> tuple[int, str]:
     Parameters
     ----------
     tok : tuple of int, str
-        ints correspond to the all caps constants in the tokenize module
+        ints correspond to the all caps constants in the tokenize module 
 
     Returns
     -------

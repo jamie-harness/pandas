@@ -3,7 +3,7 @@
   <img alt="Pandas Logo" src="https://pandas.pydata.org/static/img/pandas.svg">
 </picture>
 
------------------
+------------------
 
 # pandas: powerful Python data analysis toolkit
 
